@@ -1,9 +1,11 @@
 # AI_LAB
 
 COURSE OBJECTIVES
- To understand data structures and learning algorithms
- To understand Neural Networks
- To develop Expert systems
+1)To understand data structures and learning algorithms
+2)To understand Neural Networks
+3)To develop Expert systems
+
+
 LIST OF EXPERIMENTS:
 Practical list should be prepared based on the content of the subject and following guidelines should be useful. The following
 experiments are suggested:
@@ -14,6 +16,8 @@ experiments are suggested:
 5. Expert system using Forward Chaining
 6. Hands-on on Matlab/Python for AI related problems: Neural Network, Genetic Algorithm and more.
 7. Project work as decided by Tutor. (Tools related to AI can be explored)
+
+
 COURSE OUTCOMES
 On completion of the course, student will be able to
 CO1- Study various search techniques.
@@ -22,6 +26,8 @@ CO3- Design distributed cognitive systems.
 CO4- Apply Neural Network.
 CO5- Apply Genetic Algorithms.
 CO6- Develop intelligent systems.
+
+
 TEXT/REFERENCE BOOKS
 1. Russell, S.J. and Norvig, P., Artificial Intelligence: A Modern Approach, Pearson Education.
 2. Kevin Night and Elaine Rich, Nair B., “Artificial Intelligence (SIE)”, McGraw Hill.
